@@ -1,0 +1,2 @@
+com/cronocode/moviecatalog/BuildConfig.java
+ com.cronocode.moviecatalog.BuildConfig

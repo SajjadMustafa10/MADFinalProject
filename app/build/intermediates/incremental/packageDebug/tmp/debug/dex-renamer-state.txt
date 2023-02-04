@@ -1,0 +1,4 @@
+#Sat Feb 04 17:31:22 PKT 2023
+base.0=E\:\\University Material\\semester 8\\MAD\\MovieCatalogApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
